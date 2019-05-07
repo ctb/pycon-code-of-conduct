@@ -81,6 +81,7 @@ Conference staff will be happy to help participants contact hotel/venue security
 ## Procedure for Handling Incidents
 
 [Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/)
+
 [Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/)
 
 ## License
